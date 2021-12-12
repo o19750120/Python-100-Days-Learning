@@ -12,5 +12,14 @@
 * Day5
   *  
 * Day6
-  *   
- 
+  * 函數和模組的運用
+```python
+def main():
+    # Todo: Add your code here
+    pass
+
+
+if __name__ == '__main__':
+    main()
+```
+
