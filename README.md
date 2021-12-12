@@ -9,8 +9,7 @@
   * 分支结构(选择结构，if...elif...else...)
 * Day4
   * 循环结构(for-in、while)
-* Day5
-  *  
+* Day5 練習
 * Day6
   * 函數和模組的運用
 ```python
